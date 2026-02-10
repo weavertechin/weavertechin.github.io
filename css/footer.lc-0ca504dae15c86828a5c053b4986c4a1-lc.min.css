@@ -1,0 +1,8 @@
+.relative{position:relative !important}
+#stickyBand{background-color:#1287b2}
+#footer{background:#d61360}
+#stickyBand p{font:15px/18px "robotoregular",sans-serif}
+.copy{background-color:#000}
+.logo img{height:42px}
+@media only screen and (max-width:768px){.logo img{height:26px}
+}
